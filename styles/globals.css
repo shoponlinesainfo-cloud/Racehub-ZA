@@ -1,0 +1,41 @@
+/* Global Styles for Dark Motorsport Theme */
+
+body {
+    background-color: #121212; /* Dark background */
+    color: #FFFFFF; /* Light text color */
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1E1E1E; /* Header Background */
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #FFD700; /* Gold color for headings */
+}
+
+nav {
+    background-color: #2C2C2C; /* Navigation bar background */
+    padding: 10px;
+}
+
+nav a {
+    color: #FFFFFF; /* Link color */
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    color: #FFD700; /* Highlight color on hover */
+}
+
+footer {
+    background-color: #1E1E1E; /* Footer Background */
+    text-align: center;
+    padding: 10px;
+}
