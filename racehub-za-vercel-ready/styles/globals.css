@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0d0d0d;
+  color: white;
+}
+
+.container {
+  padding: 40px;
+}
+
+input, select, button {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+}
+
+.links a {
+  margin-right: 15px;
+  color: red;
+  text-decoration: none;
+}
